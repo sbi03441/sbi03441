@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=08298A&height=150&section=header" />
 
-### 안녕하세요. 가치 있는 개발자를 꿈꾸는 이진호입니다.
+### 안녕하세요. 가치 있는 개발자를 꿈꾸는 이진호입니다😄
 
 ---
 
