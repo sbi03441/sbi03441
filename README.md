@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=08298A&height=150&section=header" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbi03441)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbi03441&hide=contribs,prs&show_icons=true&theme=테마)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=08298A&height=150&section=footer" />
 <!--
