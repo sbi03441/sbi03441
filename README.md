@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=08298A&height=150&section=header" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbi03441&hide=contribs,prs&show_icons=true&theme=테마)
+### 안녕하세요. 가치 있는 개발자를 꿈꾸는 이진호입니다.
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=08298A&height=150&section=footer" />
 <!--
