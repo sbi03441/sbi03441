@@ -6,10 +6,19 @@
 
 📚Tech Stack
 
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=whit)
-
-
-![J](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)![E](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+<div align=left>
+  <img src="https://img.shields.io/badge/java-E34F26?style=for-the-badge&logo=java&logoColor=white">
+  <img  src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
+  <img  src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/aws EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+ 
+ <img src="https://img.shields.io/badge/intellij idea-181717?style=for-the-badge&logo=intellijidea&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  
+  
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=08298A&height=150&section=footer" />
 
